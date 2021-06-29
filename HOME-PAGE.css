@@ -29,7 +29,6 @@
 .u-section-1 .u-group-1 {
   min-height: 298px;
   width: 273px;
-  height: auto;
   background-image: none;
   margin: 0 auto 0 0;
 }
@@ -102,10 +101,6 @@
 
   .u-section-1 .u-layout-cell-1 {
     min-height: 594px;
-  }
-
-  .u-section-1 .u-group-1 {
-    height: auto;
   }
 
   .u-section-1 .u-layout-cell-2 {
