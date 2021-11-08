@@ -74,7 +74,17 @@
 }
 
 .u-section-1 .u-text-3 {
-  margin: 39px 61px 0 -1px;
+  margin: 39px 60px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  padding: 0;
 }
 
 @media (max-width: 1199px) {
@@ -110,7 +120,6 @@
   }
 
   .u-section-1 .u-text-3 {
-    margin-left: 0;
     margin-right: 0;
   }
 }

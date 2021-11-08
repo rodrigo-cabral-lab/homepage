@@ -79,7 +79,7 @@
 }
 
 .u-section-1 .u-text-4 {
-  margin: 0 61px 0 -1px;
+  margin: 0 60px 0 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -121,7 +121,6 @@
   }
 
   .u-section-1 .u-text-4 {
-    margin-left: 0;
     margin-right: 0;
   }
 }

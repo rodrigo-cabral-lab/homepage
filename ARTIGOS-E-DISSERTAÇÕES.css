@@ -49,10 +49,12 @@
   margin: 7px 0 0;
 }
 
-.u-section-1 .u-group-2 {
+.u-section-1 .u-image-2 {
   min-height: 229px;
   width: 316px;
-  margin: 572px auto 0;
+  height: auto;
+  background-image: url("images/stream_line_45.png");
+  margin: 569px auto 0;
 }
 
 .u-section-1 .u-container-layout-3 {
@@ -60,16 +62,10 @@
   padding-right: 7px;
 }
 
-.u-section-1 .u-image-2 {
-  height: 163px;
-  margin: 0;
-}
-
 .u-section-1 .u-group-3 {
   min-height: 331px;
   width: 316px;
-  height: auto;
-  margin: 577px 0 0 auto;
+  margin: 580px 0 0 auto;
 }
 
 .u-section-1 .u-container-layout-4 {
@@ -181,8 +177,9 @@
     width: 254px;
   }
 
-  .u-section-1 .u-group-2 {
+  .u-section-1 .u-image-2 {
     width: 268px;
+    height: auto;
   }
 
   .u-section-1 .u-container-layout-3 {
@@ -190,15 +187,8 @@
     padding-bottom: 0;
   }
 
-  .u-section-1 .u-image-2 {
-    height: 137px;
-    margin-right: initial;
-    margin-left: initial;
-  }
-
   .u-section-1 .u-group-3 {
     width: 268px;
-    height: auto;
   }
 
   .u-section-1 .u-container-layout-4 {
@@ -269,14 +259,8 @@
     width: 184px;
   }
 
-  .u-section-1 .u-group-2 {
-    width: 198px;
-  }
-
   .u-section-1 .u-image-2 {
-    height: 99px;
-    margin-right: initial;
-    margin-left: initial;
+    width: 198px;
   }
 
   .u-section-1 .u-group-3 {
