@@ -30,7 +30,6 @@
   min-height: 185px;
   width: 185px;
   background-image: none;
-  height: auto;
   margin: 0 auto;
 }
 
@@ -185,10 +184,6 @@
     min-height: 661px;
   }
 
-  .u-section-1 .u-group-1 {
-    height: auto;
-  }
-
   .u-section-1 .u-image-1 {
     width: 225px;
     height: 254px;
@@ -240,6 +235,7 @@
   }
 
   .u-section-1 .u-group-1 {
+    min-height: 132px;
     width: 132px;
   }
 
