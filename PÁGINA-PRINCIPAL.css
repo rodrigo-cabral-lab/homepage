@@ -131,13 +131,13 @@
 .u-section-1 .u-text-7 {
   font-size: 1.5rem;
   font-weight: normal;
-  margin: 60px 30px 0 20px;
+  margin: 20px 30px 0 20px;
 }
 
 .u-section-1 .u-text-8 {
   font-size: 1.5rem;
   letter-spacing: 1px;
-  margin: 85px 20px 0 30px;
+  margin: 10px 30px 0 20px;
 }
 
 .u-section-1 .u-btn-7 {
@@ -154,7 +154,7 @@
 .u-section-1 .u-text-9 {
   font-size: 1.5rem;
   letter-spacing: 1px;
-  margin: 5px 19px 0 30px;
+  margin: -25px 27px 0 22px;
 }
 
 .u-section-1 .u-btn-9 {
@@ -170,7 +170,7 @@
 .u-section-1 .u-text-10 {
   font-size: 1.5rem;
   letter-spacing: 1px;
-  margin: 51px 0 0 30px;
+  margin: 20px 8px 0 22px;
 }
 
 .u-section-1 .u-btn-11 {
@@ -253,6 +253,7 @@
   }
 
   .u-section-1 .u-text-10 {
+    margin-right: 0;
     margin-left: 0;
   }
 }
