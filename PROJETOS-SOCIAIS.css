@@ -35,7 +35,8 @@
 .u-section-1 .u-group-1 {
   min-height: 261px;
   width: 316px;
-  margin: 233px auto 0;
+  height: auto;
+  margin: 117px 0 0 auto;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -53,13 +54,14 @@
 }
 
 .u-section-1 .u-container-layout-3 {
-  padding: 11px 0;
+  padding: 0 0 11px;
 }
 
 .u-section-1 .u-group-2 {
   min-height: 52px;
-  margin-top: 103px;
+  margin-top: 8px;
   margin-bottom: 0;
+  height: auto;
 }
 
 .u-section-1 .u-container-layout-4 {
@@ -75,11 +77,12 @@
 
 .u-section-1 .u-text-3 {
   letter-spacing: normal;
-  margin: 54px 60px 0 0;
+  margin: 57px 61px 0 -1px;
 }
 
 .u-section-1 .u-text-4 {
-  margin: 0 61px 0 -1px;
+  font-size: 1.25rem;
+  margin: 8px 3px 0 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -90,29 +93,32 @@
 
 .u-section-1 .u-text-5 {
   letter-spacing: normal;
-  margin: 24px 60px 0 0;
+  margin: 32px 0 0;
 }
 
 .u-section-1 .u-text-6 {
-  margin: 0 60px 0 0;
+  font-size: 1.25rem;
+  margin: 15px 3px 0 0;
 }
 
 .u-section-1 .u-text-7 {
   letter-spacing: normal;
-  margin: 30px 61px 0 -1px;
+  margin: 15px 1px 0;
 }
 
 .u-section-1 .u-text-8 {
-  margin: 0 60px 0 0;
+  font-size: 1.25rem;
+  margin: 8px 0 0;
 }
 
 .u-section-1 .u-text-9 {
   letter-spacing: normal;
-  margin: 48px 57px 0 3px;
+  margin: 46px 60px 0 0;
 }
 
 .u-section-1 .u-text-10 {
-  margin: 0 57px 0 3px;
+  font-size: 1.25rem;
+  margin: 15px 0 0 3px;
 }
 
 @media (max-width: 1199px) {
@@ -131,6 +137,7 @@
 
   .u-section-1 .u-group-1 {
     width: 268px;
+    height: auto;
   }
 
   .u-section-1 .u-image-1 {
@@ -143,6 +150,10 @@
     min-height: 1280px;
   }
 
+  .u-section-1 .u-group-2 {
+    height: auto;
+  }
+
   .u-section-1 .u-container-layout-4 {
     padding-top: 30px;
     padding-bottom: 30px;
@@ -150,14 +161,10 @@
 
   .u-section-1 .u-text-3 {
     margin-right: 0;
-  }
-
-  .u-section-1 .u-text-4 {
-    margin-right: 0;
     margin-left: 0;
   }
 
-  .u-section-1 .u-text-5 {
+  .u-section-1 .u-text-4 {
     margin-right: 0;
   }
 
@@ -170,17 +177,11 @@
     margin-left: 0;
   }
 
-  .u-section-1 .u-text-8 {
-    margin-right: 0;
-  }
-
   .u-section-1 .u-text-9 {
     margin-right: 0;
-    margin-left: 0;
   }
 
   .u-section-1 .u-text-10 {
-    margin-right: 0;
     margin-left: 0;
   }
 }

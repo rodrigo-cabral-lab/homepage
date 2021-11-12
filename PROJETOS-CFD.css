@@ -35,7 +35,8 @@
 .u-section-1 .u-group-1 {
   min-height: 261px;
   width: 316px;
-  margin: 119px auto 0;
+  height: auto;
+  margin: 91px 0 0 auto;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -76,12 +77,12 @@
 .u-section-1 .u-text-3 {
   letter-spacing: normal;
   text-transform: uppercase;
-  margin: 72px 60px 0 0;
+  margin: 42px 60px 0 0;
 }
 
 .u-section-1 .u-text-4 {
   font-size: 1.25rem;
-  margin: 42px 60px 0 0;
+  margin: 11px 0 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -107,6 +108,7 @@
 
   .u-section-1 .u-group-1 {
     width: 268px;
+    height: auto;
   }
 
   .u-section-1 .u-image-1 {
@@ -125,10 +127,6 @@
   }
 
   .u-section-1 .u-text-3 {
-    margin-right: 0;
-  }
-
-  .u-section-1 .u-text-4 {
     margin-right: 0;
   }
 }
