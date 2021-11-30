@@ -327,8 +327,29 @@
     width: 340px;
   }
 
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 1106px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 295px;
+    width: 222px;
+    margin-top: 10px;
+  }
+
   .u-section-1 .u-container-layout-2 {
     padding-left: 20px;
     padding-right: 20px;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 267px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 39px;
   }
 }
